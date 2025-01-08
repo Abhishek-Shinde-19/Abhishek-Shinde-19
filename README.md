@@ -49,7 +49,7 @@ A desktop application for managing pharmacy operations.
 ---
 
 ## 🤝 Let’s Connect!  
-- **GitHub**: [https://github.com/Abhishek-Shinde-19/]  
-- **LinkedIn**: [https://www.linkedin.com/in/abhishek-shinde-5258652a9/] 
+- **GitHub**: https://github.com/Abhishek-Shinde-19/
+- **LinkedIn**: https://www.linkedin.com/in/abhishek-shinde-5258652a9/
 
 Feel free to explore my repositories and reach out if you’d like to collaborate. Let’s create something awesome together!  
