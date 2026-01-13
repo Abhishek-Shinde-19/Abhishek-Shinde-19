@@ -29,12 +29,6 @@ A desktop application for managing pharmacy operations.
   
 ---
 
-## 🎯 Goals for 2025  
-- Complete my **final-year project**, **Yummyverse**, and make it live!  
-- Learn advanced **data structures and algorithms** for competitive coding.  
-- Contribute to open-source projects.  
-
----
 
 ## 📖 What I’m Learning  
 - Advanced **JavaScript** topics (e.g., cookies, regular expressions, browser interactions).  
